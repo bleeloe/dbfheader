@@ -1,5 +1,5 @@
 # dbfheader
-change dbf header
+change dbf header byte to hex 031
 
 Created by PHP programming language 
 
