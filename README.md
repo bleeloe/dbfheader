@@ -3,7 +3,7 @@ change dbf header
 
 Created by PHP programming language 
 
-## how to use
+## How to use
 ```bash
 `php dbfheader [path foldername or dbf file name]`
 ```
