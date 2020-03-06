@@ -5,7 +5,7 @@ Created by PHP programming language
 
 ## How to use
 ```bash
-`php dbfheader [path foldername or dbf file name]`
+php dbfheader [path foldername or dbf file name]
 ```
 
 ## Example 
